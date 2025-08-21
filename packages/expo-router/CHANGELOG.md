@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- add support for custom icons on Android ([#39043](https://github.com/expo/expo/pull/39043) by [@Ubax](https://github.com/Ubax))
+
 ### 🐛 Bug fixes
 
 ### 💡 Others
